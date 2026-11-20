@@ -19,7 +19,7 @@ A multi-page personal portfolio built with HTML and CSS, using the layout of the
 ## Structure
 
 ```
-lastname-project-1/
+egca-project-1/
 ├── index.html
 ├── (other pages).html
 ├── styles/
