@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-label="Web Dev Course">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2fb59b"/>
+      <stop offset="1" stop-color="#1b7f8c"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <circle cx="704" cy="75" r="140" fill="#ffffff" fill-opacity="0.08"/>
+  <circle cx="80" cy="475" r="170" fill="#ffffff" fill-opacity="0.08"/>
+  <text x="400" y="260" font-family="Arial, Helvetica, sans-serif" font-size="80" font-weight="700" text-anchor="middle" fill="#ffffff">Web Dev Course</text>
+  <text x="400" y="332" font-family="Arial, Helvetica, sans-serif" font-size="32" text-anchor="middle" fill="#ffffff" fill-opacity="0.85">HTML and CSS</text>
+</svg>
