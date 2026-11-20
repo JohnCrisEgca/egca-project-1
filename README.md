@@ -1,4 +1,4 @@
-# JohnCrisEgca | Personal Portfolio Website
+# John Cris G. Egca | Personal Portfolio Website
 
 A multi-page personal portfolio built with HTML and CSS, using the layout of the
 [Mentor](https://bootstrapmade.com/mentor-free-education-bootstrap-theme/) Bootstrap template by BootstrapMade.
