@@ -895,6 +895,15 @@ section,
 .tabs .tab-pane h3 { font-weight: 700; font-size: 24px; }
 .tabs .tab-pane img { max-height: 260px; }
 
+.tabs .tab-pane img.tab-photo {
+  width: 100%;
+  max-height: none;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  object-position: center;
+  box-shadow: var(--shadow);
+}
+
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
